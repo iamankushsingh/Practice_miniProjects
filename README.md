@@ -7,6 +7,8 @@ Task 1: Portfolio website.
 Task 2: Landing Page.
        In this task, I have created landing page for a WeatherApp website.
        Tools Used: HTML/CSS/JS
+       https://skyscope-weatherapp.netlify.app/
 
 Task 3: Calculator.
         Tools Used: HTML/CSS/JS
+        https://usemycalcy.netlify.app/
